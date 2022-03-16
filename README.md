@@ -9,7 +9,7 @@ Aplicação React para busca de personagens na api da Marvel.
 
 ## Demo
 
-Teste o demo [aqui](https://react-marvel-character-search.herokuapp.com/) (talvez precise esperar uns 30 segundos o servidor heroku acordar 😅)
+Teste o demo [aqui](http://react-marvel-character-search.herokuapp.com/) (talvez precise remover o 'S' do 'HTTPS', e esperar uns 30 segundos o servidor heroku acordar 😅)
 
 ## Lessons Learned
 
