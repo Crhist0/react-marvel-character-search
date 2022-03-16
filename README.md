@@ -9,7 +9,7 @@ Aplicação React para busca de personagens na api da Marvel.
 
 ## Demo
 
-Teste o demo [aqui](https://bitly.com/AwesomeTitleGenerator) (talvez precise esperar uns 30 segundos o servidor heroku acordar 😅)
+Teste o demo [aqui](https://react-marvel-character-search.herokuapp.com/) (talvez precise esperar uns 30 segundos o servidor heroku acordar 😅)
 
 ## Lessons Learned
 
@@ -33,6 +33,13 @@ Instale as dependências
 
 ```bash
   npm install
+```
+
+Crie um arquivo .env e insira as keys que a api da Marvel disponibiliza [aqui](https://developer.marvel.com/account)
+
+```env
+REACT_APP_PUBLICKEY=SUA-KEY-AQUI
+REACT_APP_PRIVATEKEY=SUA-KEY-AQUI
 ```
 
 Inicie o servidor
